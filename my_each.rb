@@ -5,5 +5,5 @@ def my_each(array)
     i += 1
     #end
   end
-  # code here
+  array
 end
